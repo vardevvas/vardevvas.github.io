@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Devas</title>
+    <link>https://vardevvas.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on Devas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Oct 2022 10:20:57 +0200</lastBuildDate><atom:link href="https://vardevvas.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuring Hugo</title>
+      <link>https://vardevvas.github.io/posts/configuring-hugo/</link>
+      <pubDate>Thu, 27 Oct 2022 10:20:57 +0200</pubDate>
+      
+      <guid>https://vardevvas.github.io/posts/configuring-hugo/</guid>
+      <description> From the looks of it, it looks pretty easy I found a theme that I think I&amp;rsquo;m gonna stick with and this is my first post I&amp;rsquo;m such a beginner that I do not even know how to utilize Markdown to it&amp;rsquo;s fullest thought about changing the default md draft to false but I think I&amp;rsquo;ll leave it for now and then I changed the Theme, tbh I didn&amp;rsquo;t think much of it but as it turns out, I have a lot to learn about how to config the config file took me a long ass time to know how to link an image </description>
+    </item>
+    
+  </channel>
+</rss>

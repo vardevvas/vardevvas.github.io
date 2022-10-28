@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Devas</title>
+    <link>https://vardevvas.github.io/posts/</link>
+    <description>Recent content in Posts on Devas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Oct 2022 06:37:22 +0200</lastBuildDate><atom:link href="https://vardevvas.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shifting Careers</title>
+      <link>https://vardevvas.github.io/posts/shifting-career/</link>
+      <pubDate>Fri, 28 Oct 2022 06:37:22 +0200</pubDate>
+      
+      <guid>https://vardevvas.github.io/posts/shifting-career/</guid>
+      <description>I do not exactly if it was the recent uprise on the hype of tech or it&amp;rsquo;s that I&amp;rsquo;ve always been fasinated with tech the latter part is a fact, I&amp;rsquo;ve been following the fields of hardware and software and always felt a void stemed from the lack of knowledge in those fields not utilizing the 5 year BS.c on Petroleum engineering felt like it is a waste so I&amp;rsquo;ve tried to build a career on it, that was on 2015, one year later I knew that this career peak meant nothing to me, and on that same year I enrolled on the higher diploma in IT, thinking that it&amp;rsquo;s the best option to get into that community I completed that Diploma but as it turned out I did not utilize it at all and continued with my job on the petroleum field having the passion to learn everything there is to know about the software and the hardware alike was in a way a disadvantage</description>
+    </item>
+    
+    <item>
+      <title>Configuring Hugo</title>
+      <link>https://vardevvas.github.io/posts/configuring-hugo/</link>
+      <pubDate>Thu, 27 Oct 2022 10:20:57 +0200</pubDate>
+      
+      <guid>https://vardevvas.github.io/posts/configuring-hugo/</guid>
+      <description> From the looks of it, it looks pretty easy I found a theme that I think I&amp;rsquo;m gonna stick with and this is my first post I&amp;rsquo;m such a beginner that I do not even know how to utilize Markdown to it&amp;rsquo;s fullest thought about changing the default md draft to false but I think I&amp;rsquo;ll leave it for now and then I changed the Theme, tbh I didn&amp;rsquo;t think much of it but as it turns out, I have a lot to learn about how to config the config file took me a long ass time to know how to link an image </description>
+    </item>
+    
+  </channel>
+</rss>
