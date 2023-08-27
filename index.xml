@@ -6,7 +6,52 @@
     <description>Recent content on Devas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Oct 2022 19:29:32 +0200</lastBuildDate><atom:link href="https://vardevvas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Aug 2023 10:05:41 +0400</lastBuildDate><atom:link href="https://vardevvas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To Do Webapp</title>
+      <link>https://vardevvas.github.io/projects/to-do-webapp/</link>
+      <pubDate>Sun, 27 Aug 2023 10:05:41 +0400</pubDate>
+      
+      <guid>https://vardevvas.github.io/projects/to-do-webapp/</guid>
+      <description>Crafted a personal to-do web application following the acquisition of Vue.js and Spring Boot skills. Integrated Vue.js for frontend interactivity and Spring Boot for backend functionality. Demonstrated a practical understanding of full-stack development by creating a functional task management system that underlines my evolving proficiency in these technologies</description>
+    </item>
+    
+    <item>
+      <title>Onboarding Webapp</title>
+      <link>https://vardevvas.github.io/projects/onboarding-webapp/</link>
+      <pubDate>Sun, 27 Aug 2023 10:05:01 +0400</pubDate>
+      
+      <guid>https://vardevvas.github.io/projects/onboarding-webapp/</guid>
+      <description>Revolutionized the onboarding experience through a cutting-edge web application. Spearheaded the development of the project by architecting and implementing the entire backend using Java Spring Boot. This pivotal role allowed me to harness the power of technology to streamline and enhance the onboarding process, driving efficiency and creating a lasting impact on user experience.</description>
+    </item>
+    
+    <item>
+      <title>Ketabee</title>
+      <link>https://vardevvas.github.io/projects/ketabee/</link>
+      <pubDate>Sun, 27 Aug 2023 10:04:18 +0400</pubDate>
+      
+      <guid>https://vardevvas.github.io/projects/ketabee/</guid>
+      <description>Building a Book Store Webapp using React.js and a mobile version with SwiftUI. Collaborated on integrating frontend and backend components for a user-friendly experience. Leveraged React.js for the web interface and SwiftUI for the mobile aspect, showcasing versatility in cross-platform development.</description>
+    </item>
+    
+    <item>
+      <title>Fintech Middleware Application</title>
+      <link>https://vardevvas.github.io/projects/fintech-middleware-application/</link>
+      <pubDate>Sun, 27 Aug 2023 10:03:39 +0400</pubDate>
+      
+      <guid>https://vardevvas.github.io/projects/fintech-middleware-application/</guid>
+      <description>Led the development and implementation of a dynamic backend system using Java Spring Boot. Crafted a robust and scalable architecture that served as the backbone of the application, ensuring seamless data processing, security, and responsiveness. Collaborated closely with the frontend team to deliver a cohesive and high-performing user experience. The utilization of Java Spring Boot empowered the project with enhanced efficiency, rapid data retrieval, and effective integration of various components.</description>
+    </item>
+    
+    <item>
+      <title>The War</title>
+      <link>https://vardevvas.github.io/blog/the-war/</link>
+      <pubDate>Sun, 27 Aug 2023 10:02:25 +0400</pubDate>
+      
+      <guid>https://vardevvas.github.io/blog/the-war/</guid>
+      <description>I think everyone knew that a crisis was about to hit, but no one was ready for an actual war, when we heard the first explosion we were shocked to our core, I mean you see it and hear it in the movies and while you are playing games but in real life, when you are in it, it&amp;rsquo;s something else entirely of course when it started, everyone was being optimistic that it&amp;rsquo;ll all be over in a matter of hours, with no electricity, water or fuel it was almost like being captive.</description>
+    </item>
+    
     <item>
       <title>The Choice</title>
       <link>https://vardevvas.github.io/blog/the-choice/</link>
@@ -60,33 +105,6 @@ My academic journey led me through the captivating realm of Petroleum Geology, a
       
       <guid>https://vardevvas.github.io/blog/configuring-hugo/</guid>
       <description> From the looks of it, it looks pretty easy I found a theme that I think I&amp;rsquo;m gonna stick with and this is my first post I&amp;rsquo;m such a beginner that I do not even know how to utilize Markdown to it&amp;rsquo;s fullest thought about changing the default md draft to false but I think I&amp;rsquo;ll leave it for now and then I changed the Theme, tbh I didn&amp;rsquo;t think much of it but as it turns out, I have a lot to learn about how to config the config file took me a long ass time to know how to link an image </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vardevvas.github.io/projects/ketabee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vardevvas.github.io/projects/ketabee/</guid>
-      <description>Building a Book Store Webapp using React.js and a mobile version with SwiftUI. Collaborated on integrating frontend and backend components for a user-friendly experience. Leveraged React.js for the web interface and SwiftUI for the mobile aspect, showcasing versatility in cross-platform development.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vardevvas.github.io/projects/onboarding-webapp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vardevvas.github.io/projects/onboarding-webapp/</guid>
-      <description>Revolutionized the onboarding experience through a cutting-edge web application. Spearheaded the development of the project by architecting and implementing the entire backend using Java Spring Boot. This pivotal role allowed me to harness the power of technology to streamline and enhance the onboarding process, driving efficiency and creating a lasting impact on user experience.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vardevvas.github.io/projects/to-do-webapp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vardevvas.github.io/projects/to-do-webapp/</guid>
-      <description>Crafted a personal to-do web application following the acquisition of Vue.js and Spring Boot skills. Integrated Vue.js for frontend interactivity and Spring Boot for backend functionality. Demonstrated a practical understanding of full-stack development by creating a functional task management system that underlines my evolving proficiency in these technologies</description>
     </item>
     
   </channel>
