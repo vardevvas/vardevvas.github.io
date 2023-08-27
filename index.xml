@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 28 Oct 2022 19:29:32 +0200</lastBuildDate><atom:link href="https://vardevvas.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Choice</title>
-      <link>https://vardevvas.github.io/posts/the-choice/</link>
+      <link>https://vardevvas.github.io/blog/the-choice/</link>
       <pubDate>Fri, 28 Oct 2022 19:29:32 +0200</pubDate>
       
-      <guid>https://vardevvas.github.io/posts/the-choice/</guid>
+      <guid>https://vardevvas.github.io/blog/the-choice/</guid>
       <description>how would anyone define their place in this this world, do you just accept whatever comes your way or should you just find something that entertain you and set your self on that, or should be something that is good for you and for your family and for your community and maybe even the entire world, or should just aim for the maximum that you can do to yeild a profite in order to live a &amp;ldquo;free live&amp;rdquo;, is it all of the above or some of it.</description>
     </item>
     
@@ -22,7 +22,7 @@
       <pubDate>Fri, 28 Oct 2022 07:08:54 +0200</pubDate>
       
       <guid>https://vardevvas.github.io/projects/my-blog/</guid>
-      <description>This is a thread of how I created this blog</description>
+      <description>Designed and brought to life this Personal Blogging and Portfolio Webapp using Hugo. Seamlessly integrated content creation with dynamic design, showcasing my ability to curate meaningful narratives and present my work in an engaging digital format</description>
     </item>
     
     <item>
@@ -31,15 +31,15 @@
       <pubDate>Fri, 28 Oct 2022 06:59:35 +0200</pubDate>
       
       <guid>https://vardevvas.github.io/contact-me/</guid>
-      <description> Email vardevvas@gmail.com Phone +249 12 8741 912 Socials @vardevvas </description>
+      <description> Email vardevvas@gmail.com Phone +971 56 802 1566 Socials @vardevvas </description>
     </item>
     
     <item>
       <title>Shifting Careers</title>
-      <link>https://vardevvas.github.io/posts/shifting-career/</link>
+      <link>https://vardevvas.github.io/blog/shifting-career/</link>
       <pubDate>Fri, 28 Oct 2022 06:37:22 +0200</pubDate>
       
-      <guid>https://vardevvas.github.io/posts/shifting-career/</guid>
+      <guid>https://vardevvas.github.io/blog/shifting-career/</guid>
       <description>I do not exactly know if it was the recent uprise on the hype of tech or it&amp;rsquo;s that I&amp;rsquo;ve always been fasinated with tech the latter part is a fact, I&amp;rsquo;ve been following the fields of hardware and software and always felt a void stemed from the lack of knowledge in those fields not utilizing the 5 year BS.c on Petroleum engineering felt like it is a waste so I&amp;rsquo;ve tried to build a career on it, that was on 2015, one year later I knew that this career peak meant nothing to me, and on that same year I enrolled on the higher diploma in IT, thinking that it&amp;rsquo;s the best option to get into that community I completed that Diploma but as it turned out I did not utilize it at all and continued with my job on the petroleum field having the passion to learn everything there is to know about the software and the hardware alike was in a way a disadvantage, because it made me scattered not knowing where and what to begin with.</description>
     </item>
     
@@ -49,16 +49,44 @@
       <pubDate>Fri, 28 Oct 2022 06:36:15 +0200</pubDate>
       
       <guid>https://vardevvas.github.io/about-me/</guid>
-      <description>I&amp;rsquo;ve been fascinated with technology hardware and software alike since an early age, I&amp;rsquo;ve always found it easy to work my way around tech-related things because I adopted the technique of thinking like a developer. I&amp;rsquo;ve studied Petroleum Geology and worked professionally in that field for five years, but I didn&amp;rsquo;t find myself in it and I&amp;rsquo;ve decided to earn myself a career in CS since it was always my main interest from the mere hardware architecture all the way to the UI design.</description>
+      <description>From a young age, my fascination with the intricate world of technology, encompassing both hardware and software, has been a driving force in my life. Through the years, I&amp;rsquo;ve cultivated a natural affinity for navigating the intricate web of tech-related concepts, owing to my unique approach of embracing a developer&amp;rsquo;s mindset.
+My academic journey led me through the captivating realm of Petroleum Geology, a field in which I honed my skills over five enriching years of professional commitment.</description>
     </item>
     
     <item>
       <title>Configuring Hugo</title>
-      <link>https://vardevvas.github.io/posts/configuring-hugo/</link>
+      <link>https://vardevvas.github.io/blog/configuring-hugo/</link>
       <pubDate>Thu, 27 Oct 2022 10:20:57 +0200</pubDate>
       
-      <guid>https://vardevvas.github.io/posts/configuring-hugo/</guid>
+      <guid>https://vardevvas.github.io/blog/configuring-hugo/</guid>
       <description> From the looks of it, it looks pretty easy I found a theme that I think I&amp;rsquo;m gonna stick with and this is my first post I&amp;rsquo;m such a beginner that I do not even know how to utilize Markdown to it&amp;rsquo;s fullest thought about changing the default md draft to false but I think I&amp;rsquo;ll leave it for now and then I changed the Theme, tbh I didn&amp;rsquo;t think much of it but as it turns out, I have a lot to learn about how to config the config file took me a long ass time to know how to link an image </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vardevvas.github.io/projects/ketabee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vardevvas.github.io/projects/ketabee/</guid>
+      <description>Building a Book Store Webapp using React.js and a mobile version with SwiftUI. Collaborated on integrating frontend and backend components for a user-friendly experience. Leveraged React.js for the web interface and SwiftUI for the mobile aspect, showcasing versatility in cross-platform development.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vardevvas.github.io/projects/onboarding-webapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vardevvas.github.io/projects/onboarding-webapp/</guid>
+      <description>Revolutionized the onboarding experience through a cutting-edge web application. Spearheaded the development of the project by architecting and implementing the entire backend using Java Spring Boot. This pivotal role allowed me to harness the power of technology to streamline and enhance the onboarding process, driving efficiency and creating a lasting impact on user experience.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vardevvas.github.io/projects/to-do-webapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vardevvas.github.io/projects/to-do-webapp/</guid>
+      <description>Crafted a personal to-do web application following the acquisition of Vue.js and Spring Boot skills. Integrated Vue.js for frontend interactivity and Spring Boot for backend functionality. Demonstrated a practical understanding of full-stack development by creating a functional task management system that underlines my evolving proficiency in these technologies</description>
     </item>
     
   </channel>

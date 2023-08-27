@@ -13,7 +13,34 @@
       <pubDate>Fri, 28 Oct 2022 07:08:54 +0200</pubDate>
       
       <guid>https://vardevvas.github.io/projects/my-blog/</guid>
-      <description>This is a thread of how I created this blog</description>
+      <description>Designed and brought to life this Personal Blogging and Portfolio Webapp using Hugo. Seamlessly integrated content creation with dynamic design, showcasing my ability to curate meaningful narratives and present my work in an engaging digital format</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vardevvas.github.io/projects/ketabee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vardevvas.github.io/projects/ketabee/</guid>
+      <description>Building a Book Store Webapp using React.js and a mobile version with SwiftUI. Collaborated on integrating frontend and backend components for a user-friendly experience. Leveraged React.js for the web interface and SwiftUI for the mobile aspect, showcasing versatility in cross-platform development.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vardevvas.github.io/projects/onboarding-webapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vardevvas.github.io/projects/onboarding-webapp/</guid>
+      <description>Revolutionized the onboarding experience through a cutting-edge web application. Spearheaded the development of the project by architecting and implementing the entire backend using Java Spring Boot. This pivotal role allowed me to harness the power of technology to streamline and enhance the onboarding process, driving efficiency and creating a lasting impact on user experience.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vardevvas.github.io/projects/to-do-webapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vardevvas.github.io/projects/to-do-webapp/</guid>
+      <description>Crafted a personal to-do web application following the acquisition of Vue.js and Spring Boot skills. Integrated Vue.js for frontend interactivity and Spring Boot for backend functionality. Demonstrated a practical understanding of full-stack development by creating a functional task management system that underlines my evolving proficiency in these technologies</description>
     </item>
     
   </channel>

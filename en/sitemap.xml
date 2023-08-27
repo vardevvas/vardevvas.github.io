@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vardevvas.github.io/blog/</loc>
+    <lastmod>2022-10-28T19:29:32+02:00</lastmod>
+  </url><url>
     <loc>https://vardevvas.github.io/</loc>
     <lastmod>2022-10-28T19:29:32+02:00</lastmod>
     <xhtml:link
@@ -15,10 +18,7 @@
                 href="https://vardevvas.github.io/"
                 />
   </url><url>
-    <loc>https://vardevvas.github.io/posts/</loc>
-    <lastmod>2022-10-28T19:29:32+02:00</lastmod>
-  </url><url>
-    <loc>https://vardevvas.github.io/posts/the-choice/</loc>
+    <loc>https://vardevvas.github.io/blog/the-choice/</loc>
     <lastmod>2022-10-28T19:29:32+02:00</lastmod>
   </url><url>
     <loc>https://vardevvas.github.io/projects/my-blog/</loc>
@@ -30,7 +30,7 @@
     <loc>https://vardevvas.github.io/contact-me/</loc>
     <lastmod>2022-10-28T06:59:35+02:00</lastmod>
   </url><url>
-    <loc>https://vardevvas.github.io/posts/shifting-career/</loc>
+    <loc>https://vardevvas.github.io/blog/shifting-career/</loc>
     <lastmod>2022-10-28T06:37:22+02:00</lastmod>
   </url><url>
     <loc>https://vardevvas.github.io/tags/</loc>
@@ -52,8 +52,14 @@
     <loc>https://vardevvas.github.io/about-me/</loc>
     <lastmod>2022-10-28T06:36:15+02:00</lastmod>
   </url><url>
-    <loc>https://vardevvas.github.io/posts/configuring-hugo/</loc>
+    <loc>https://vardevvas.github.io/blog/configuring-hugo/</loc>
     <lastmod>2022-10-27T10:20:57+02:00</lastmod>
+  </url><url>
+    <loc>https://vardevvas.github.io/projects/ketabee/</loc>
+  </url><url>
+    <loc>https://vardevvas.github.io/projects/onboarding-webapp/</loc>
+  </url><url>
+    <loc>https://vardevvas.github.io/projects/to-do-webapp/</loc>
   </url><url>
     <loc>https://vardevvas.github.io/authors/</loc>
     <xhtml:link
