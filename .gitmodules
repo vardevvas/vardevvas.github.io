@@ -1,0 +1,3 @@
+[submodule "Devas"]
+	path = Devas
+	url = git@github.com:vardevvas/Devas.git
