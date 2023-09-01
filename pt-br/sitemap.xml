@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vardevvas.github.io/pt-br/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vardevvas.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://vardevvas.github.io/pt-br/"
+                />
+  </url><url>
     <loc>https://vardevvas.github.io/pt-br/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -24,18 +36,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://vardevvas.github.io/pt-br/categories/"
-                />
-  </url><url>
-    <loc>https://vardevvas.github.io/pt-br/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vardevvas.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://vardevvas.github.io/pt-br/"
                 />
   </url><url>
     <loc>https://vardevvas.github.io/pt-br/series/</loc>
