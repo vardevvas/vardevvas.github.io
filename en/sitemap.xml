@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://vardevvas.github.io/</loc>
-    <lastmod>2023-08-27T10:05:41+04:00</lastmod>
+    <lastmod>2023-08-27T10:02:25+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -15,26 +15,23 @@
                 href="https://vardevvas.github.io/"
                 />
   </url><url>
-    <loc>https://vardevvas.github.io/projects/</loc>
-    <lastmod>2023-08-27T10:05:41+04:00</lastmod>
-  </url><url>
-    <loc>https://vardevvas.github.io/projects/to-do-webapp/</loc>
-    <lastmod>2023-08-27T10:05:41+04:00</lastmod>
-  </url><url>
-    <loc>https://vardevvas.github.io/projects/onboarding-webapp/</loc>
-    <lastmod>2023-08-27T10:05:01+04:00</lastmod>
-  </url><url>
-    <loc>https://vardevvas.github.io/projects/ketabee/</loc>
-    <lastmod>2023-08-27T10:04:18+04:00</lastmod>
-  </url><url>
-    <loc>https://vardevvas.github.io/projects/fintech-middleware-application/</loc>
-    <lastmod>2023-08-27T10:03:39+04:00</lastmod>
-  </url><url>
     <loc>https://vardevvas.github.io/blog/</loc>
     <lastmod>2023-08-27T10:02:25+04:00</lastmod>
   </url><url>
     <loc>https://vardevvas.github.io/blog/the-war/</loc>
     <lastmod>2023-08-27T10:02:25+04:00</lastmod>
+  </url><url>
+    <loc>https://vardevvas.github.io/projects/fintech-middleware-application/</loc>
+    <lastmod>2023-04-15T10:03:39+04:00</lastmod>
+  </url><url>
+    <loc>https://vardevvas.github.io/projects/</loc>
+    <lastmod>2023-04-15T10:03:39+04:00</lastmod>
+  </url><url>
+    <loc>https://vardevvas.github.io/projects/onboarding-webapp/</loc>
+    <lastmod>2023-03-07T12:21:01+04:00</lastmod>
+  </url><url>
+    <loc>https://vardevvas.github.io/projects/ketabee/</loc>
+    <lastmod>2023-02-26T10:04:18+04:00</lastmod>
   </url><url>
     <loc>https://vardevvas.github.io/blog/the-choice/</loc>
     <lastmod>2022-10-28T19:29:32+02:00</lastmod>
@@ -69,6 +66,9 @@
   </url><url>
     <loc>https://vardevvas.github.io/blog/configuring-hugo/</loc>
     <lastmod>2022-10-27T10:20:57+02:00</lastmod>
+  </url><url>
+    <loc>https://vardevvas.github.io/projects/to-do-webapp/</loc>
+    <lastmod>2022-08-27T10:05:41+04:00</lastmod>
   </url><url>
     <loc>https://vardevvas.github.io/authors/</loc>
     <xhtml:link

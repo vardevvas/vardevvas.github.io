@@ -6,41 +6,35 @@
     <description>Recent content in Projects on Ali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Aug 2023 10:05:41 +0400</lastBuildDate><atom:link href="https://vardevvas.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Apr 2023 10:03:39 +0400</lastBuildDate><atom:link href="https://vardevvas.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>To Do Webapp</title>
-      <link>https://vardevvas.github.io/projects/to-do-webapp/</link>
-      <pubDate>Sun, 27 Aug 2023 10:05:41 +0400</pubDate>
+      <title>Merchant Portal Simulator</title>
+      <link>https://vardevvas.github.io/projects/fintech-middleware-application/</link>
+      <pubDate>Sat, 15 Apr 2023 10:03:39 +0400</pubDate>
       
-      <guid>https://vardevvas.github.io/projects/to-do-webapp/</guid>
-      <description>Crafted a personal to-do web application following the acquisition of Vue.js and Spring Boot skills. Integrated Vue.js for frontend interactivity and Spring Boot for backend functionality. Demonstrated a practical understanding of full-stack development by creating a functional task management system that underlines my evolving proficiency in these technologies</description>
+      <guid>https://vardevvas.github.io/projects/fintech-middleware-application/</guid>
+      <description>Created a test environment for the Sudanese Electronic banking system, clients can use the environment to test their application before submitting it to EBS
+Tech Stack: Java Spring Boot, Virtualization, MySQL.</description>
     </item>
     
     <item>
-      <title>Onboarding Webapp</title>
+      <title>Bank Onboarding Webapp</title>
       <link>https://vardevvas.github.io/projects/onboarding-webapp/</link>
-      <pubDate>Sun, 27 Aug 2023 10:05:01 +0400</pubDate>
+      <pubDate>Tue, 07 Mar 2023 12:21:01 +0400</pubDate>
       
       <guid>https://vardevvas.github.io/projects/onboarding-webapp/</guid>
-      <description>Revolutionized the onboarding experience through a cutting-edge web application. Spearheaded the development of the project by architecting and implementing the entire backend using Java Spring Boot. This pivotal role allowed me to harness the power of technology to streamline and enhance the onboarding process, driving efficiency and creating a lasting impact on user experience.</description>
+      <description>Revolutionized the onboarding experience through a cutting-edge web application. Spearheaded the development of the project by architecting and implementing the entire backend using Java Spring Boot. This pivotal role allowed me to harness the power of technology to streamline and enhance the onboarding process, driving efficiency and creating a lasting impact on user experience.
+Tech Stack: Java Spring Boot, Vue,js, MySQL</description>
     </item>
     
     <item>
       <title>Ketabee</title>
       <link>https://vardevvas.github.io/projects/ketabee/</link>
-      <pubDate>Sun, 27 Aug 2023 10:04:18 +0400</pubDate>
+      <pubDate>Sun, 26 Feb 2023 10:04:18 +0400</pubDate>
       
       <guid>https://vardevvas.github.io/projects/ketabee/</guid>
-      <description>Building a Book Store Webapp using React.js and a mobile version with SwiftUI. Collaborated on integrating frontend and backend components for a user-friendly experience. Leveraged React.js for the web interface and SwiftUI for the mobile aspect, showcasing versatility in cross-platform development.</description>
-    </item>
-    
-    <item>
-      <title>Fintech Middleware Application</title>
-      <link>https://vardevvas.github.io/projects/fintech-middleware-application/</link>
-      <pubDate>Sun, 27 Aug 2023 10:03:39 +0400</pubDate>
-      
-      <guid>https://vardevvas.github.io/projects/fintech-middleware-application/</guid>
-      <description>Led the development and implementation of a dynamic backend system using Java Spring Boot. Crafted a robust and scalable architecture that served as the backbone of the application, ensuring seamless data processing, security, and responsiveness. Collaborated closely with the frontend team to deliver a cohesive and high-performing user experience. The utilization of Java Spring Boot empowered the project with enhanced efficiency, rapid data retrieval, and effective integration of various components.</description>
+      <description>Ongoing the development of a Book Store Webapp and a mobile version. Integrating the 2 applications with one backend for seamless user experience.
+Tech Stack: Java Spring Boot, MySQL, React.js, SwiftUI</description>
     </item>
     
     <item>
@@ -50,6 +44,15 @@
       
       <guid>https://vardevvas.github.io/projects/my-blog/</guid>
       <description>Designed and brought to life this Personal Blogging and Portfolio Webapp using Hugo. Seamlessly integrated content creation with dynamic design, showcasing my ability to curate meaningful narratives and present my work in an engaging digital format</description>
+    </item>
+    
+    <item>
+      <title>To Do Webapp</title>
+      <link>https://vardevvas.github.io/projects/to-do-webapp/</link>
+      <pubDate>Sat, 27 Aug 2022 10:05:41 +0400</pubDate>
+      
+      <guid>https://vardevvas.github.io/projects/to-do-webapp/</guid>
+      <description>Crafted a personal to-do web application following the acquisition of Vue.js and Spring Boot skills. Integrated Vue.js for frontend interactivity and Spring Boot for backend functionality. Demonstrated a practical understanding of full-stack development by creating a functional task management system that underlines my evolving proficiency in these technologies</description>
     </item>
     
   </channel>
