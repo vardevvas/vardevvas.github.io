@@ -43,7 +43,9 @@ Tech Stack: Java Spring Boot, Vue,js, MySQL</description>
       
       <guid>https://vardevvas.github.io/projects/ketabee/</guid>
       <description>Ongoing the development of a Book Store Webapp and a mobile version. Integrating the 2 applications with one backend for seamless user experience.
-Tech Stack: Java Spring Boot, MySQL, React.js, SwiftUI</description>
+Tech Stack: Java Spring Boot, MySQL, React.js, SwiftUI
+03/10/23
+so after acquiring all the iOS knowladge I need to bring this app to life, I started with the UI design using Figma the reason why I started with the UI design, is becasue it helps me visuals the features and requirements of the app through out making it I came to realize the database design and the use cases.</description>
     </item>
     
     <item>
