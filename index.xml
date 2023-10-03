@@ -6,7 +6,16 @@
     <description>Recent content on Ali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Aug 2023 10:02:25 +0400</lastBuildDate><atom:link href="https://vardevvas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Oct 2023 07:08:54 +0200</lastBuildDate><atom:link href="https://vardevvas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Blogging and Portfolio Webapp</title>
+      <link>https://vardevvas.github.io/projects/my-blog/</link>
+      <pubDate>Mon, 02 Oct 2023 07:08:54 +0200</pubDate>
+      
+      <guid>https://vardevvas.github.io/projects/my-blog/</guid>
+      <description> Designed and brought to life this Personal Blogging and Portfolio Webapp using Hugo. Seamlessly integrated content creation with dynamic design, showcasing my ability to curate meaningful narratives and present my work in an engaging digital format This project is connected to a github action for deploying and firebase as for the Domain, I do not see the need for it right now </description>
+    </item>
+    
     <item>
       <title>The War</title>
       <link>https://vardevvas.github.io/blog/the-war/</link>
@@ -37,33 +46,12 @@ Tech Stack: Java Spring Boot, Vue,js, MySQL</description>
     </item>
     
     <item>
-      <title>Ketabee</title>
-      <link>https://vardevvas.github.io/projects/ketabee/</link>
-      <pubDate>Sun, 26 Feb 2023 10:04:18 +0400</pubDate>
-      
-      <guid>https://vardevvas.github.io/projects/ketabee/</guid>
-      <description>Ongoing the development of a Book Store Webapp and a mobile version. Integrating the 2 applications with one backend for seamless user experience.
-Tech Stack: Java Spring Boot, MySQL, React.js, SwiftUI, .Net
-by the end of this project I should have created:
-Ketabee UI design and Flows using Figma Ketabee iOS application using xCode, SwiftUI, Core Data A gateway that will handle authentication, Versioning and requests routing based on App id and verion that will be based on a cloud tool (Microsoft Azure) Ketabee server application using two differnet frameworks (Spring Boot, .</description>
-    </item>
-    
-    <item>
       <title>The Choice</title>
       <link>https://vardevvas.github.io/blog/the-choice/</link>
       <pubDate>Fri, 28 Oct 2022 19:29:32 +0200</pubDate>
       
       <guid>https://vardevvas.github.io/blog/the-choice/</guid>
       <description>how would anyone define their place in this this world, do you just accept whatever comes your way or should you just find something that entertain you and set your self on that, or should be something that is good for you and for your family and for your community and maybe even the entire world, or should just aim for the maximum that you can do to yeild a profite in order to live a &amp;ldquo;free live&amp;rdquo;, is it all of the above or some of it.</description>
-    </item>
-    
-    <item>
-      <title>My Blog</title>
-      <link>https://vardevvas.github.io/projects/my-blog/</link>
-      <pubDate>Fri, 28 Oct 2022 07:08:54 +0200</pubDate>
-      
-      <guid>https://vardevvas.github.io/projects/my-blog/</guid>
-      <description>Designed and brought to life this Personal Blogging and Portfolio Webapp using Hugo. Seamlessly integrated content creation with dynamic design, showcasing my ability to curate meaningful narratives and present my work in an engaging digital format</description>
     </item>
     
     <item>
