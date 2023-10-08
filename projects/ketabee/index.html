@@ -200,75 +200,76 @@ Having acquired the necessary iOS knowledge through the Meta iOS Developer Progr
 </span></span><span style="display:flex;"><span>);
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="font-weight:bold">CREATE</span> <span style="font-weight:bold">TABLE</span> roles (
-</span></span><span style="display:flex;"><span>    role_id INT AUTO_INCREMENT <span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span>,
-</span></span><span style="display:flex;"><span>    role_name VARCHAR(50) <span style="font-weight:bold">NOT</span> <span style="font-weight:bold">NULL</span> <span style="font-weight:bold">UNIQUE</span>
+</span></span><span style="display:flex;"><span>role_id INT AUTO_INCREMENT <span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span>,
+</span></span><span style="display:flex;"><span>role_name VARCHAR(50) <span style="font-weight:bold">NOT</span> <span style="font-weight:bold">NULL</span> <span style="font-weight:bold">UNIQUE</span>
 </span></span><span style="display:flex;"><span>);
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="font-weight:bold">CREATE</span> <span style="font-weight:bold">TABLE</span> permissions (
-</span></span><span style="display:flex;"><span>    permission_id INT AUTO_INCREMENT <span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span>,
-</span></span><span style="display:flex;"><span>    permission_name VARCHAR(50) <span style="font-weight:bold">NOT</span> <span style="font-weight:bold">NULL</span> <span style="font-weight:bold">UNIQUE</span>
+</span></span><span style="display:flex;"><span>permission_id INT AUTO_INCREMENT <span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span>,
+</span></span><span style="display:flex;"><span>permission_name VARCHAR(50) <span style="font-weight:bold">NOT</span> <span style="font-weight:bold">NULL</span> <span style="font-weight:bold">UNIQUE</span>
 </span></span><span style="display:flex;"><span>);
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="font-weight:bold">CREATE</span> <span style="font-weight:bold">TABLE</span> user_role (
-</span></span><span style="display:flex;"><span>    user_id INT,
-</span></span><span style="display:flex;"><span>    role_id INT,
-</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span> (user_id, role_id),
-</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (user_id) <span style="font-weight:bold">REFERENCES</span> users(user_id),
-</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (role_id) <span style="font-weight:bold">REFERENCES</span> roles(role_id)
+</span></span><span style="display:flex;"><span>user_id INT,
+</span></span><span style="display:flex;"><span>role_id INT,
+</span></span><span style="display:flex;"><span><span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span> (user_id, role_id),
+</span></span><span style="display:flex;"><span><span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (user_id) <span style="font-weight:bold">REFERENCES</span> users(user_id),
+</span></span><span style="display:flex;"><span><span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (role_id) <span style="font-weight:bold">REFERENCES</span> roles(role_id)
 </span></span><span style="display:flex;"><span>);
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="font-weight:bold">CREATE</span> <span style="font-weight:bold">TABLE</span> role_permission (
-</span></span><span style="display:flex;"><span>    role_id INT,
-</span></span><span style="display:flex;"><span>    permission_id INT,
-</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span> (role_id, permission_id),
-</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (role_id) <span style="font-weight:bold">REFERENCES</span> roles(role_id),
-</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (permission_id) <span style="font-weight:bold">REFERENCES</span> permissions(permission_id)
+</span></span><span style="display:flex;"><span>role_id INT,
+</span></span><span style="display:flex;"><span>permission_id INT,
+</span></span><span style="display:flex;"><span><span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span> (role_id, permission_id),
+</span></span><span style="display:flex;"><span><span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (role_id) <span style="font-weight:bold">REFERENCES</span> roles(role_id),
+</span></span><span style="display:flex;"><span><span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (permission_id) <span style="font-weight:bold">REFERENCES</span> permissions(permission_id)
 </span></span><span style="display:flex;"><span>);
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="font-weight:bold">CREATE</span> <span style="font-weight:bold">TABLE</span> book_genre (
-</span></span><span style="display:flex;"><span>    genre_id INT AUTO_INCREMENT <span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span>,
-</span></span><span style="display:flex;"><span>    genre_name VARCHAR(50) <span style="font-weight:bold">NOT</span> <span style="font-weight:bold">NULL</span> <span style="font-weight:bold">UNIQUE</span>
+</span></span><span style="display:flex;"><span>genre_id INT AUTO_INCREMENT <span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span>,
+</span></span><span style="display:flex;"><span>genre_name VARCHAR(50) <span style="font-weight:bold">NOT</span> <span style="font-weight:bold">NULL</span> <span style="font-weight:bold">UNIQUE</span>
 </span></span><span style="display:flex;"><span>);
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="font-weight:bold">CREATE</span> <span style="font-weight:bold">TABLE</span> books (
-</span></span><span style="display:flex;"><span>    book_id INT AUTO_INCREMENT <span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span>,
-</span></span><span style="display:flex;"><span>    title VARCHAR(255) <span style="font-weight:bold">NOT</span> <span style="font-weight:bold">NULL</span>,
-</span></span><span style="display:flex;"><span>    author VARCHAR(255),
-</span></span><span style="display:flex;"><span>    publication_date DATE,
-</span></span><span style="display:flex;"><span>    genre_id INT,
-</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (genre_id) <span style="font-weight:bold">REFERENCES</span> book_genre(genre_id)
+</span></span><span style="display:flex;"><span>book_id INT AUTO_INCREMENT <span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span>,
+</span></span><span style="display:flex;"><span>title VARCHAR(255) <span style="font-weight:bold">NOT</span> <span style="font-weight:bold">NULL</span>,
+</span></span><span style="display:flex;"><span>author VARCHAR(255),
+</span></span><span style="display:flex;"><span>publication_date DATE,
+</span></span><span style="display:flex;"><span>genre_id INT,
+</span></span><span style="display:flex;"><span><span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (genre_id) <span style="font-weight:bold">REFERENCES</span> book_genre(genre_id)
 </span></span><span style="display:flex;"><span>);
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="font-weight:bold">CREATE</span> <span style="font-weight:bold">TABLE</span> user_book (
-</span></span><span style="display:flex;"><span>    user_id INT,
-</span></span><span style="display:flex;"><span>    book_id INT,
-</span></span><span style="display:flex;"><span>    borrowed_date DATE,
-</span></span><span style="display:flex;"><span>    returned_date DATE,
-</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span> (user_id, book_id),
-</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (user_id) <span style="font-weight:bold">REFERENCES</span> users(user_id),
-</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (book_id) <span style="font-weight:bold">REFERENCES</span> books(book_id)
+</span></span><span style="display:flex;"><span>user_id INT,
+</span></span><span style="display:flex;"><span>book_id INT,
+</span></span><span style="display:flex;"><span>borrowed_date DATE,
+</span></span><span style="display:flex;"><span>returned_date DATE,
+</span></span><span style="display:flex;"><span><span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span> (user_id, book_id),
+</span></span><span style="display:flex;"><span><span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (user_id) <span style="font-weight:bold">REFERENCES</span> users(user_id),
+</span></span><span style="display:flex;"><span><span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (book_id) <span style="font-weight:bold">REFERENCES</span> books(book_id)
 </span></span><span style="display:flex;"><span>);
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="font-weight:bold">CREATE</span> <span style="font-weight:bold">TABLE</span> geofences (
-</span></span><span style="display:flex;"><span>    geofence_id INT AUTO_INCREMENT <span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span>,
-</span></span><span style="display:flex;"><span>    geofence_name VARCHAR(255) <span style="font-weight:bold">NOT</span> <span style="font-weight:bold">NULL</span>,
+</span></span><span style="display:flex;"><span>geofence_id INT AUTO_INCREMENT <span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span>,
+</span></span><span style="display:flex;"><span>geofence_name VARCHAR(255) <span style="font-weight:bold">NOT</span> <span style="font-weight:bold">NULL</span>,
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>);
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="font-weight:bold">CREATE</span> <span style="font-weight:bold">TABLE</span> user_geofence (
-</span></span><span style="display:flex;"><span>    user_id INT,
-</span></span><span style="display:flex;"><span>    geofence_id INT,
-</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span> (user_id, geofence_id),
-</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (user_id) <span style="font-weight:bold">REFERENCES</span> users(user_id),
-</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (geofence_id) <span style="font-weight:bold">REFERENCES</span> geofences(geofence_id)
+</span></span><span style="display:flex;"><span>user_id INT,
+</span></span><span style="display:flex;"><span>geofence_id INT,
+</span></span><span style="display:flex;"><span><span style="font-weight:bold">PRIMARY</span> <span style="font-weight:bold">KEY</span> (user_id, geofence_id),
+</span></span><span style="display:flex;"><span><span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (user_id) <span style="font-weight:bold">REFERENCES</span> users(user_id),
+</span></span><span style="display:flex;"><span><span style="font-weight:bold">FOREIGN</span> <span style="font-weight:bold">KEY</span> (geofence_id) <span style="font-weight:bold">REFERENCES</span> geofences(geofence_id)
 </span></span><span style="display:flex;"><span>);
 </span></span></code></pre></div><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 <p>08/10/23</p>
 <p>Accomplishments:</p>
-<p>Developed seven views, each accompanied by its respective model-view, to handle user registration, OTP verification, login, and password reset. Additionally, created an initial version of the homepage that greets users by displaying their name and ID.
-Development Status:</p>
-<p>Currently, iOS app development is temporarily on hold. The focus has shifted to setting up the Spring Cloud Gateway, a crucial component responsible for user management.
-Upcoming Steps:</p>
+<p>Developed seven views, each accompanied by its respective model-view, to handle user registration, OTP verification, login, and password reset. Additionally, created an initial version of the homepage that greets users by displaying their name and ID.</p>
+<p>Development Status:</p>
+<p>Currently, iOS app development is temporarily on hold. The focus has shifted to setting up the Spring Cloud Gateway, a crucial component responsible for user management.</p>
+<p>Upcoming Steps:</p>
 <p>Following the successful configuration of the Spring Cloud Gateway, the next phase involves integration. If this process proceeds smoothly, I will proceed to build the remaining features of the iOS app.</p>
 <p>Use Cases:</p>
 <ul>
@@ -276,9 +277,9 @@ Upcoming Steps:</p>
 <li>First-time users (alternative): When &lsquo;onboarding&rsquo; is true, users can alternatively choose &lsquo;sign in,&rsquo; which redirects them to the login view. After entering and validating their credentials, users can initiate the sign-up process, proceed to the OTP view, and, upon successful verification, receive and store a JWT token. Subsequently, users are automatically logged in and directed to the home page, with the &lsquo;onboarding&rsquo; flag set to false.</li>
 <li>Returning users: When the &lsquo;onboarding&rsquo; flag is false, the app checks for a stored JWT token for automatic login. If successful, users are seamlessly directed to the home page.</li>
 <li>Expired JWT token: If the JWT token is expired or fails during login, users are redirected to the login page with a notification stating, &lsquo;Login session expired.&rsquo;</li>
-<li>Password reset: In cases where login fails, users can initiate a password reset by navigating to the password reset view. The app verifies whether the email is registered. Upon successful validation, an OTP is sent via email, and users are directed to the OTP view. After successful OTP verification, users proceed to the second password reset view, where they can enter and confirm a new password. Upon successful verification, users are navigated back to the login view with a notification reading, &lsquo;Password updated, please log in again.&rsquo;
-Please note that the current views have minimal functionality and are in a preliminary state. A more comprehensive revamp of both UI and functionality is planned during the integration phase, subsequent to the successful setup of the Spring Cloud Gateway.</li>
+<li>Password reset: In cases where login fails, users can initiate a password reset by navigating to the password reset view. The app verifies whether the email is registered. Upon successful validation, an OTP is sent via email, and users are directed to the OTP view. After successful OTP verification, users proceed to the second password reset view, where they can enter and confirm a new password. Upon successful verification, users are navigated back to the login view with a notification reading, &lsquo;Password updated, please log in again.&rsquo;</li>
 </ul>
+<p>Please note that the current views have minimal functionality and are in a preliminary state. A more comprehensive revamp of both UI and functionality is planned during the integration phase, subsequent to the successful setup of the Spring Cloud Gateway.</p>
 
   </article>
 </section>
